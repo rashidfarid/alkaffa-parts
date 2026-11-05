@@ -1,0 +1,9 @@
+{
+  // Cloudflare Workers static assets: serves the built website in ./site.
+  "name": "alkaffa-parts",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./site",
+    "not_found_handling": "404-page"
+  }
+}

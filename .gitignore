@@ -5,3 +5,6 @@ local-site/
 alkaffa-parts.zip
 
 .DS_Store
+
+# Static site upload package; rebuild with: cd site && zip -r ../alkaffa-parts-site.zip .
+alkaffa-parts-site.zip
