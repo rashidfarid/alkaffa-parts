@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<defs>
+<linearGradient id="akp-g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffa057"/><stop offset="1" stop-color="#e8590c"/></linearGradient>
+<clipPath id="akp-c"><path d="M32 2.5 58 17.5v29L32 61.5 6 46.5v-29Z"/></clipPath>
+</defs>
+<g class="logo-nut">
+<path d="M32 2.5 58 17.5v29L32 61.5 6 46.5v-29Z" fill="url(#akp-g)"/>
+<path d="M32 7.5 53.6 20v24L32 56.5 10.4 44V20Z" fill="none" stroke="#fff" stroke-opacity=".4" stroke-width="1.2" stroke-linejoin="round"/>
+</g>
+<g clip-path="url(#akp-c)">
+<circle class="logo-sun" cx="45" cy="15.5" r="3.6" fill="#fff" fill-opacity=".85"/>
+<path class="logo-dune" d="M0 45.5 Q15 39 31 44 T64 41.5 V64 H0Z" fill="#0b1a2e"/>
+<g class="logo-car">
+<rect x="9.6" y="30.6" width="3.4" height="8.6" rx="1.6" fill="#0b1a2e"/>
+<path fill="#0b1a2e" d="M12.6 41V31.4Q12.6 29.4 14.6 29.2L16.4 29 18.6 22.2Q19.1 21 20.6 21H44.2Q45.8 21 46.3 22.4L48.6 28.8 50.4 29.4Q52 30 52 32V41Z"/>
+<path fill="#0b1a2e" d="M20 19.6H44" stroke="#0b1a2e" stroke-width="1.3" stroke-linecap="round"/>
+<path fill="#fff" d="M19.9 23.2H26.6V28.6H18.2Z M28.4 23.2H35.6V28.6H28.4Z M37.4 23.2H44L45.9 28.6H37.4Z"/>
+<rect x="46.6" y="31.4" width="5.4" height="1.8" rx=".9" fill="#ffa057"/>
+<rect x="12.6" y="35" width="39.4" height="1.2" fill="#ffa057" fill-opacity=".9"/>
+<circle cx="21" cy="41.4" r="5" fill="#0b1a2e" stroke="#ffa057" stroke-width="1.5"/><circle cx="21" cy="41.4" r="1.7" fill="#fff"/>
+<circle cx="43.2" cy="41.4" r="5" fill="#0b1a2e" stroke="#ffa057" stroke-width="1.5"/><circle cx="43.2" cy="41.4" r="1.7" fill="#fff"/>
+</g>
+</g>
+<path d="M32 2.5 58 17.5v29L32 61.5 6 46.5v-29Z" fill="none" stroke="#e8590c" stroke-width="1.6" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,7 @@
+# Local WordPress test site (database, config, WordPress core)
+local-site/
+
+# Built theme package; rebuild with: zip -r alkaffa-parts.zip alkaffa-parts -x "*.DS_Store"
+alkaffa-parts.zip
+
+.DS_Store
